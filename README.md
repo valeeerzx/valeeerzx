@@ -1,4 +1,6 @@
-<h2 align="left">Hi, everyone! I'm Valeria Ku.</h2>
+<br clear="both">
+
+<p align="left">Hi, everyone! I'm Valeria Ku.</p>
 
 ###
 
